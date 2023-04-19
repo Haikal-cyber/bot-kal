@@ -1,0 +1,2 @@
+# dea-fakebot
+# bot-kal
