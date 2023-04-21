@@ -9,3 +9,5 @@ console.log("register");
 console.log("login");
 
 console.log("navbar");
+
+console.log("payment");
